@@ -5,3 +5,4 @@ cal.multiplication(45,87);
 cal.average(34,86);
 //System.debug(cal);
 //to be conti
+//doinggit
